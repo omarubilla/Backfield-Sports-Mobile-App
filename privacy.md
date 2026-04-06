@@ -89,7 +89,7 @@ Depending on your location, you may have rights to:
 * Delete your data
 * Restrict or object to processing
 
-To exercise these rights, contact us at: **[Insert Email]**
+To exercise these rights, contact us at: info@backfield.ai
 
 ---
 
